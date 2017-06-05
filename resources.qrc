@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Geoprocess" >
+        <file>Geoprocess.png</file>
+    </qresource>
+</RCC>
